@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arishti0411
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently a student at VIT University, Vellore 
-- 💞️ I’m looking to collaborate on projects related to ML and Data Science
+- 👀 I’m interested in Machine Learning, Data Science, Blockchain.
+- 🌱 I’m currently working as a Software Engineer in GAP Inc.
+- 💞️ I’m looking to collaborate on projects related to ML and Data Science or Blockchain
 - 📫 How to reach me: salariaarishti@gmail.com
 
 <!---
